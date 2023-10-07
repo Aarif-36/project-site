@@ -1,0 +1,20 @@
+
+    body{
+        background-color: lemonchiffon;
+    }
+    hr{
+        margin-top: 5em;
+        margin-bottom: 5em;
+        border-style: none;
+        border-top-style: dotted;
+        width: 10%;
+        border-width: 5px;
+        border-color: lightslategray;
+    }
+    h1{
+        background-color:darkslategrey;
+        border-radius:10px;
+        margin-right: 450px;
+        color:rgb(131, 228, 228)
+        
+    }
